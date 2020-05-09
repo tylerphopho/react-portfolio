@@ -1,5 +1,4 @@
 {
-  "homepage": "http://tylerphopho.github.io/react-portfolio/",
   "name": "react-portfolio2",
   "version": "0.1.0",
   "private": true,
@@ -37,5 +36,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "homepage": "https://tylerphopho.github.io/react-portfolio/"
 }
